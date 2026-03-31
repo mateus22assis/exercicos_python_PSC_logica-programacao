@@ -1,0 +1,12 @@
+numeroPrincipal = int(input("Digite um número inteiro para ver a tabuada: "))
+print(numeroPrincipal, "x 1 = ", numeroPrincipal * 1)
+print(numeroPrincipal, "x 2 = ", numeroPrincipal * 2)
+print(numeroPrincipal, "x 3 = ", numeroPrincipal * 3)
+print(numeroPrincipal, "x 4 = ", numeroPrincipal * 4)
+print(numeroPrincipal, "x 5 = ", numeroPrincipal * 5)
+print(numeroPrincipal, "x 6 = ", numeroPrincipal * 6)
+print(numeroPrincipal, "x 7 = ", numeroPrincipal * 7)
+print(numeroPrincipal, "x 8 = ", numeroPrincipal * 8)
+print(numeroPrincipal, "x 9 = ", numeroPrincipal * 9)
+print(numeroPrincipal, "x 10 = ", numeroPrincipal * 10)
+
