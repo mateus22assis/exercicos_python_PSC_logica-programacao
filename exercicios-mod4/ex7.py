@@ -1,3 +1,4 @@
+# Escreva um programa que leia dois números e apresente as seguintes opções:
 import math
 
 N1 = float(input("digite o primeiro número: "))

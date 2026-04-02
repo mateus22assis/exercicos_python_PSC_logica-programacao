@@ -1,3 +1,4 @@
+#programa que recebe as notas de 3 alunos e calcula a média de cada aluno usando um loop for
 print("Calculadora de Média para 3 Alunos")
 
 for i in range(1, 4): # Loop para os 3 alunos (i+1 para mostrar Aluno 1, 2, 3)

@@ -1,3 +1,5 @@
+#calculo de peso ideal de uma mulher
+
 M = float(input("digite a altura de uma Mulher em (m): "))
 pesoIdeal = (62.1 * M) - 44
 

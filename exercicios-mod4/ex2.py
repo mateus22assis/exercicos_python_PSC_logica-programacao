@@ -1,3 +1,4 @@
+#calculo da media de notas
 N1 = int(input("Digite a primeira nota: "))
 N2 = int(input("Digite a segunda nota: "))
 N3 = int(input("Digite a terceira nota: "))

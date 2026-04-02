@@ -1,3 +1,4 @@
+#calculo das diarias de um hotel, onde o valor da diária é R$ 500,00 e a taxa de serviço varia de acordo com a quantidade de diárias:
 diarias = int(input("Digite a quantidade de diárias: "))
 
 volor_diaria = 500

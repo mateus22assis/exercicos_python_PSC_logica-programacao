@@ -1,3 +1,4 @@
+#dobro de um numero comm while
 numero = int(input("Digite um número: "))
 while numero >= 0:
   print("dobro: ", numero * 2)

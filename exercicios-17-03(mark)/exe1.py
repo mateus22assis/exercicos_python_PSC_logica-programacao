@@ -1,3 +1,4 @@
+#calculo de situação do aluno
 notaFinal = float(input("Digite a nota final (0-10): "))
 frequencia = float(input("Digite a frequência (0-100): "))
 

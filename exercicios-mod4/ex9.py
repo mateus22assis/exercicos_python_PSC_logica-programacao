@@ -1,4 +1,4 @@
-
+#mensalidade de uma academia, onde o valor varia de acordo com a idade e o sexo do cliente:
 Idade = int(input("Digite a idade: "))
 sexo = input("Digite o sexo (M/F): ").upper() 
 

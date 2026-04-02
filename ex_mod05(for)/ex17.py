@@ -1,3 +1,4 @@
+# Programa que recebe a idade e o peso de sete pessoas, calcula a média das idades e a quantidade de pessoas com mais de 90 kg.
 quantidade_mais_90kg = 0
 soma_idades = 0
 

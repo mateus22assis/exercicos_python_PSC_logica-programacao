@@ -1,4 +1,4 @@
-
+# Simulador de login usando estrutura de repetição while
 usuario_correto = "admin"
 senha_correta = "1234"
 tentativas = 1

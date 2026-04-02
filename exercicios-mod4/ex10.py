@@ -1,3 +1,4 @@
+# Calculo das diárias de um hotel, onde o valor da diária varia de acordo com a quantidade de diárias e o tipo de apartamento:
 diarias = float(input("Digite a quantidade de diárias: "))
 tipo_apto = input("Digite o tipo de apartamento (Simples ou duplo): ")
 

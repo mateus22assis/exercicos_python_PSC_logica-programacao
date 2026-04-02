@@ -1,3 +1,6 @@
+#program de gerencimaneto das notas de uma turma
+
+
 qtde_alunos_nota90 = 0
 qtde_alunos_reprovados = 0
 maior_nota = -1 

@@ -1,4 +1,4 @@
-
+#calculo de multa de transito
 
 velocidadeCarro = float(input("Digite a velocidade do carro em (km/h): "))
 valorMulta = 0

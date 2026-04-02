@@ -1,3 +1,4 @@
+#prgrama que recebe e indentifica maior e menor nota de 5 alunos
 maior_nota = float('-inf') # Inicializa com um valor muito baixo
 menor_nota = float('inf')  # Inicializa com um valor muito alto
 

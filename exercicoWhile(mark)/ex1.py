@@ -1,8 +1,8 @@
-
+# Simulador de caixa eletrônico usando estrutura de repetição while
 saldo = 1000
-opçao = 0  # Inicializamos com um valor que permita entrar no loop
+opçao = 0  
 
-while opçao != 4: # O loop continua enquanto a opção não for 4
+while opçao != 4: 
     print("\n--- Menu ---")
     print("1 -> Ver saldo")
     print("2 -> Sacar")

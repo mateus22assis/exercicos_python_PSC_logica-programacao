@@ -1,3 +1,4 @@
+#programa que recebe um número inteiro positivo do usuário e calcula o fatorial desse número usando um loop for
 numero = int(input("Digite um número inteiro positivo para calcular o fatorial: "))
 
 if numero < 0:

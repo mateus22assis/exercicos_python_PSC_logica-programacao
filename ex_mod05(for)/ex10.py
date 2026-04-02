@@ -1,3 +1,4 @@
+#programa que recebe a idade e o sexo de 10 pessoas e calcula a média de idade do grupo e o número de mulheres com idade entre 20 e 40 anos usando um loop for
 contadorMulheres_20a40 = 0
 soma_idade = 0
 qtde_pessoas = 0

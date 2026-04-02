@@ -1,3 +1,5 @@
+#inversao de valoeres
+
 A = float(input("Digite o valor de A: "))
 B = float(input("Digite o valor de B: "))
 A,B =B,A

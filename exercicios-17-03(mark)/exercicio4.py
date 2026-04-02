@@ -1,4 +1,4 @@
-
+#calculo de situação do empréstimo
 #entrada
 salario = float(input("Digite o seu salário: "))
 valorParcela = float(input("Digite o valor da parcela: "))

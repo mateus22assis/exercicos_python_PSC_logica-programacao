@@ -1,4 +1,4 @@
-
+# Verificar se três valores podem formar um triângulo
 Lx = float(input("digite o valor de Lx: "))
 Ly = float(input("digite o valor de Ly: "))
 Lz = float(input("digite o valor de Lz: "))

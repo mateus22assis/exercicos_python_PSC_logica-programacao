@@ -1,3 +1,4 @@
+#programa que recebe dois números do usuário e imprime todos os números entre eles usando um loop for
 num1 = int(input("Digite o primeiro número: "))
 num2 = int(input("Digite o segundo número: "))
 

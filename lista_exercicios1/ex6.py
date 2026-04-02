@@ -1,4 +1,4 @@
-
+#calculo de gorjeta
 
 valorGasto = float(input("informe o valor gastro no restaurante: "))
 valorPago = valorGasto *1.10

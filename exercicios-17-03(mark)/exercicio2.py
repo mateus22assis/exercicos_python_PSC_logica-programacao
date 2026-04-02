@@ -1,4 +1,4 @@
-
+#calculo de valor final de uma compra
 #entrada
 valorCompra = float(input("Digite o valor da compra: "))
 cupom = input("Digite o cupom de desconto: ").upper()

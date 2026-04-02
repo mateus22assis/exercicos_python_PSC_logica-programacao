@@ -1,4 +1,4 @@
-
+# Jogo de adivinhação usando estrutura de repetição while
 numero_secreto = 15
 tentativas = 1
 chute = int(input("Adivinhe o número secreto (entre 1 e 20): "))

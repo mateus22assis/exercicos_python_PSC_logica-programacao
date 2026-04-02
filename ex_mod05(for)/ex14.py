@@ -1,3 +1,4 @@
+#programa que recebe o sexo e o peso de 10 pessoas e calcula quantos homens têm peso entre 60 e 80 kg e quantas mulheres têm peso entre 50 e 70 kg usando um loop for
 contador_masculino_60_80 = 0
 contador_feminino_50_70 = 0
 

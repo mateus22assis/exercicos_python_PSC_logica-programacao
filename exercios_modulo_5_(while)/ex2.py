@@ -1,3 +1,4 @@
+#calculo do quadrado, cubo, raiz quadrada e par ou impar de um numero com while
 import math
 numero = int(input("Digite um número: "))
 while numero >= 0:

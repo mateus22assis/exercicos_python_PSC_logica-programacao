@@ -1,3 +1,4 @@
+#programa que recebe 10 temperaturas do usuário e informa a maior e a menor temperatura usando um loop for
 maior_temperatura = float('-inf') # Inicializa com um valor muito baixo
 menor_temperatura = float('inf')  # Inicializa com um valor muito alto
 

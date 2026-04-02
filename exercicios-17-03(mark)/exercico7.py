@@ -1,3 +1,4 @@
+#calculo de nivel do jogador
 #  ENTRADA 
 pontuacao = int(input("Digite a pontuação do jogador: "))
 

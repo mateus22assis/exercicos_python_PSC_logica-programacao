@@ -1,4 +1,5 @@
-# --- ENTRADA ---
+#calculo de situação do pagamento
+#  ENTRADA
 valorCompra = float(input("Digite o valor da compra: R$ "))
 valorPago = float(input("Digite o valor pago: R$ "))
 

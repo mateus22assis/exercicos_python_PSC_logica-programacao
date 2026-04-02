@@ -1,3 +1,4 @@
+#calculo de quadrado, cubo, raiz quadrada e raiz cubica de um número
 import math
 x = float(input("Digite um número:"))
 quadrado = math.pow(x, 2)

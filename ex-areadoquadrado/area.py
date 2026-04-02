@@ -1,3 +1,4 @@
+#calculo de area do retangulo
 print("eu quero comprar material para uma quadra")
 comprimento = float(input("Digite a altura do retângulo: "))
 largura = float(input("Digite a largura do retângulo: "))

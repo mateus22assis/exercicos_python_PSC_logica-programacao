@@ -1,3 +1,4 @@
+#programa de gerenciamento das idades de um grupo de pessoas, onde o usuário digita as idades e o programa deve calcular a soma, a quantidade de pessoas, a média, a quantidade de pessoas entre 20 e 40 anos, a menor idade e a maior idade. O programa deve continuar solicitando as idades até que o usuário digite um número negativo.
 cont_idade20_40 = 0
 soma = 0
 qtde_pessoas = 0

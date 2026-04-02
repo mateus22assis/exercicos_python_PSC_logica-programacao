@@ -1,3 +1,4 @@
+#calculo da tabuada de um número inteiro
 numeroPrincipal = int(input("Digite um número inteiro para ver a tabuada: "))
 print(numeroPrincipal, "x 1 = ", numeroPrincipal * 1)
 print(numeroPrincipal, "x 2 = ", numeroPrincipal * 2)

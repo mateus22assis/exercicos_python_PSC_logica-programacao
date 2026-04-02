@@ -1,3 +1,4 @@
+# Cálculo de uma função definida por partes
 import math
 x = float(input("digite o valor de x: "))
 
