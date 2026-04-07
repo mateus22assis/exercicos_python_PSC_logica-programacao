@@ -1,4 +1,4 @@
-#dois numeros interios que retorna a multiplicaçao do primeiro pelo segundoultilizando somente a adição
+#dois numeros interios que retorna a multiplicaçao do primeiro pelo segundo ultilizando somente a adição
 def multiplicacao(a, b):
     resultado = 0
     for i in range(b):
