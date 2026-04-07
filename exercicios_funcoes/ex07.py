@@ -7,5 +7,5 @@ def multiplicacao(a, b):
 
 
 resultado = multiplicacao(5, 3)
-print(resultado)
+print("o primeiro numero multiplicado pelo segundo é:", resultado)
 
