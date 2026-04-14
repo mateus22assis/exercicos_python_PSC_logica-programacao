@@ -1,8 +1,8 @@
 #dois numeros interios que retorna a multiplicaçao do primeiro pelo segundo ultilizando somente a adição
-def multiplicacao(a, b):
+def multiplicacao(primeiro, segundo):
     resultado = 0
-    for i in range(b):
-        resultado += a
+    for i in range(segundo):
+        resultado += primeiro
     return resultado
 
 
