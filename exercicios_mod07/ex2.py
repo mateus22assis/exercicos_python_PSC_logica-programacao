@@ -25,5 +25,5 @@ for i in range(tamanho_vetor):
         
 print("Alunos com notas abaixo da média:")
 for i in range(tamanho_vetor):
-    if notas[i] <10 media:
+    if notas[i] < media:
         print(f"Aluno {i+1}: Nota {notas[i]}")

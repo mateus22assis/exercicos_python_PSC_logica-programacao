@@ -19,8 +19,14 @@ for i in range(tamanho_vetor):
     else:
         vetor_divisao[i] = "Divisão por zero"
 
-print("Vetor 1:", vetor1)
-print("Vetor 2:", vetor2)
-print("Vetor da Multiplicação:", vetor_multiplicacao)
-print(f"Vetor da Divisão: {vetor_divisao}")
+
+for i in range(tamanho_vetor):
+    print(vetor1[i])
+for i in range(tamanho_vetor):
+    print(vetor2[i])    
+for i in range(tamanho_vetor):
+    print(vetor_multiplicacao[i])
+
+for i in range(tamanho_vetor):
+    print(vetor_divisao[i])
 

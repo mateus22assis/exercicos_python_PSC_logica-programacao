@@ -9,4 +9,8 @@ for i in range(tamanho_vetor):
 for i in range(tamanho_vetor):
     if vetor[i] < 0:
         vetor[i] = 0
-print("Vetor alterado:", vetor) 
+
+for i in range(tamanho_vetor):
+    print(vetor[i])
+
+ 
